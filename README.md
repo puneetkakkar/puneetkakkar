@@ -4,7 +4,7 @@ Welcome to my Github profile.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=puneetkakkar.puneetkakkar)
 
-I'm Puneet Kakkar, a passionate full-stack SDE from India. I am meticulous about infrastructure, architecture, and code quality of the things I develop. 
+I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about infrastructure, architecture, and code quality of the things I develop. 
 
 - 🔭 &nbsp;I’m currently working on cyber security project :wink:
 - 🌱 &nbsp;I’m currently learning Distributed Systems.
