@@ -13,7 +13,10 @@ I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about 
 
 ### Connect with me
 <a href="https://github.com/puneetkakkar">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/github" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/github" />
+  </picture>
 </a>
 <a href="https://www.instagram.com/puneet_kakkar/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -22,7 +25,10 @@ I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about 
   <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://www.threads.net/@puneet_kakkar">
-  <img align="left" alt="Threads" width="22px" src="https://cdn.simpleicons.org/threads" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
+      <img align="left" alt="Threads" width="22px" src="https://cdn.simpleicons.org/threads" />
+  </picture>
 </a>
 <a href="https://www.linkedin.com/in/puneet-kakkar/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
