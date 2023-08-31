@@ -12,15 +12,18 @@ I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about 
 - ⚡ &nbsp;Fun fact: I :heart: music and compose/produce my own music (Soundcloud: [puneetkakkar](https://soundcloud.com/puneetkakkar))
 
 ### Connect with me
+<a href="https://github.com/puneetkakkar">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/github" />
+</a>
 <a href="https://www.instagram.com/puneet_kakkar/">
-  <img align="left" alt="Puneet's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discordapp.com/users/puneetkakkar#0980">
-  <img align="left" alt="Puneet's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
-<a href="https://twitter.com/puneetkakkar">
-  <img align="left" alt="Puneet Kakkar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.threads.net/@puneet_kakkar">
+  <img align="left" alt="Threads" width="22px" src="https://cdn.simpleicons.org/threads" />
 </a>
 <a href="https://www.linkedin.com/in/puneet-kakkar/">
-  <img align="left" alt="Puneet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
