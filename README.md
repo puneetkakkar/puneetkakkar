@@ -2,7 +2,7 @@
 
 Welcome to my Github profile.
 
-![](https://visitor-badge.glitch.me/badge?page_id=puneetkakkar.puneetkakkar)
+![](https://komarev.com/ghpvc/?username=puneetkakkar)
 
 I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about infrastructure, architecture, and code quality of the things I develop. 
 
