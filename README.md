@@ -4,6 +4,8 @@ Welcome to my Github profile.
 
 ![](https://komarev.com/ghpvc/?username=puneetkakkar)
 
+![GitHub followers](https://img.shields.io/github/followers/puneetkakkar?label=Follow&style=social)
+
 I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about infrastructure, architecture, and code quality of the things I develop. 
 
 - 🔭 &nbsp;I’m currently working on cyber security project :wink:
