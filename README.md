@@ -24,5 +24,5 @@ I'm Puneet Kakkar, a MS CS grad student at UB from India. I am meticulous about 
   <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://www.linkedin.com/in/puneet-kakkar/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" />
 </a>
